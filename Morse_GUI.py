@@ -1,3 +1,6 @@
+// code by Lovleen Kala
+// student id-2210994808
+// sit210
 import RPi.GPIO as GPIO
 import time
 from tkinter import *
